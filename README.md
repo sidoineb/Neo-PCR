@@ -18,12 +18,12 @@ La [PCR](https://wiki.fablab.sorbonne-universite.fr/BookStack/books/techniques-d
 
 Les 3 étapes cycliques :
 
-1️⃣  DÉNATURATION  (~94°C, 30s)
-└─► Séparation des brins d'ADN
-2️⃣  HYBRIDATION   (~60°C, 30s)
-└─► Fixation des amorces
-3️⃣  ÉLONGATION    (~72°C, 30s)
-└─► Synthèse du nouveau brin
+1️⃣  DÉNATURATION  (~94°C, 30s) - Séparation des brins d'ADN
+
+2️⃣  HYBRIDATION   (~60°C, 30s) - Fixation des amorces
+
+3️⃣  ÉLONGATION    (~72°C, 30s) - Synthèse du nouveau brin
+
 🔄 Répéter 30-40 cycles
 
 **Applications :** Diagnostic médical, tests génétiques, recherche criminelle, détection d'OGM, archéologie...
@@ -33,6 +33,7 @@ Les 3 étapes cycliques :
 ## 📜 Licence
 
 Neo-PCR - Thermocycleur DIY Open Source
+
 Copyright (C) 2026 
 
 Ce programme est un logiciel libre sous licence
