@@ -47,13 +47,19 @@ GNU General Public License v3.0
 
 ## 🚀 Installation
 
-*Coming soon*
+  1. Installer la bibliothèque Adafruit_MAX31855 via le gestionnaire
+  2. Téléverser ce code sur l'Arduino
+  3. Ouvrir le moniteur série (9600 bauds)
+  4. Suivre les instructions
 
 ---
 
 ## ⚠️ Précautions et bonnes pratiques
 
-*Coming soon*
+- ⚠️  NE JAMAIS laisser sans surveillance
+- ⚠️  Température max: 100°C (sécurité matérielle)
+- ⚠️  Vérifier connexions électriques avant utilisation
+- ⚠️  Couper alimentation si comportement anormal
 
 ---
 
