@@ -2,6 +2,8 @@
 
 🧬 Projet PCR Open Source Cyberpunk 🧬
 
+![](Neo-PCR.webp)
+
 ---
 
 ## 🔬 Qu'est-ce que Neo-PCR ?
