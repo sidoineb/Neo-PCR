@@ -10,8 +10,6 @@
 ║                                                                           ║
 ║              🧬 Neo-PCR - Thermocycleur DIY v1.0 🧬                       ║
 ║                                                                           ║
-║  Développé avec passion pour la communauté biohacking                     ║
-║  Avec l'aide de Claude (Anthropic)                                        ║
 ║                                                                           ║
 ║  GNU General Public License v3.0                                          ║
 ║  Copyright (C) 2026                                                       ║
@@ -560,7 +558,6 @@ void printSplashScreen() {
   Serial.println(F("║              🧬 Thermocycleur DIY Open Source 🧬                         ║"));
   Serial.println(F("║                                                                           ║"));
   Serial.println(F("║  Version: 1.0                     GNU GPL v3.0                           ║"));
-  Serial.println(F("║  Développé avec l'aide de Claude (Anthropic)                            ║"));
   Serial.println(F("║                                                                           ║"));
   Serial.println(F("╚═══════════════════════════════════════════════════════════════════════════╝"));
   Serial.println();
